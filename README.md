@@ -6,6 +6,7 @@ Each cell interacts with its eight neighbors (horizontal, vertical, diagonal) us
            2. Any live cell with two or three live neighbors lives on to the next generation. <br>
            3. Any live cell with more than three live neighbors dies, as if by over-population. <br>
            4. Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction. <br>
-The next state is created by applying the above algorithms simultaneously to every cell in the current state, where births and deaths occur simultaneously.
+The next state is created by applying the above algorithms simultaneously to every cell in the current state, where births and deaths occur simultaneously. <br>
+I realise this is isn't the most flattering color combination. Feel free to make it less irritating.
 
 <p align="center"><img src="ss2.png"></p>
